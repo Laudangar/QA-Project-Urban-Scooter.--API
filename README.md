@@ -10,7 +10,7 @@ En este proyecto es la visualización desde back-end cara a un repartidor y un c
 
 [POSTMAN](https://www.notion.so/POSTMAN-119eb29771ed80a38e8fdead68e5caa5?pvs=21)
 
-[Mapa mental](https://www.notion.so/Mapa-mental-119eb29771ed8010919bf8c865cb81bc?pvs=21)
+[Mapa mental](https://drive.google.com/file/d/11ID1l-rR_x_5skHhcOSxfuy6c0fauqzc/view?usp=sharing) 
 
 [Lista de comprobación](https://www.notion.so/Lista-de-comprobaci-n-119eb29771ed806890e8fd2f48264c6e?pvs=21)
 
